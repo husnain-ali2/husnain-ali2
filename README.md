@@ -1,6 +1,3 @@
-
-
-
 # ✨ Hello World! I'm Husnain Ali ✨
 
 
@@ -13,6 +10,8 @@ Passionate tech enthusiast exploring the digital universe one line of code at a 
 - 💡 **Interests:** Web Dev | AI | DevOps | Cybersecurity
 - 🎯 **Goal:** Contribute to meaningful open-source projects
 - ✨ **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+
+
 
 ---
 
@@ -53,18 +52,20 @@ Passionate tech enthusiast exploring the digital universe one line of code at a 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnain45605@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/husnain-ali2)
 
+
+---
+
+## 🚦 Profile views
+
+ <img src="https://komarev.com/ghpvc/?username=husnain-ali2&label=Profile%20views&color=0e75b6&style=flat" alt="husnain-ali2" aling="left" width="17%"/>
+
 ---
 
 ## ⭐ From [Husnain Ali](https://github.com/husnain-ali2)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=husnain-ali2&show_icons=true&theme=radical" width="400"/>
 
----
 
 
-## 🧑‍🧒‍🧒 Profile view
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=husnain-ali2&label=Profile%20views&color=0e75b6&style=flat" alt="husnain-ali2" />
-</p>
 
