@@ -57,7 +57,7 @@ Passionate tech enthusiast exploring the digital universe one line of code at a 
 
 ## 🚦 Profile views
 
- <img src="https://komarev.com/ghpvc/?username=husnain-ali2&label=Profile%20views&color=0e75b6&style=flat" alt="husnain-ali2" aling="left" width="17%"/>
+ <img src="https://komarev.com/ghpvc/?username=husnain-ali2&label=Profile%20views&color=0e75b6&style=flat" alt="husnain-ali2" aling="left" />
 
 ---
 
