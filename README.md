@@ -55,12 +55,16 @@ Passionate tech enthusiast exploring the digital universe one line of code at a 
 
 ---
 
-⭐ From [Husnain Ali](https://github.com/husnain-ali2)
+## ⭐ From [Husnain Ali](https://github.com/husnain-ali2)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=husnain-ali2&show_icons=true&theme=radical" width="400"/>
- <br>
- 
-<h3>Profile views</h3>
-<p align="left">
+
+---
+
+
+## 🧑‍🧒‍🧒 Profile view
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=husnain-ali2&label=Profile%20views&color=0e75b6&style=flat" alt="husnain-ali2" />
 </p>
+
